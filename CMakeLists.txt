@@ -1,4 +1,4 @@
-project(yaml)
+project(yml)
 set(YML_VERSION_MAJOR 0)
 set(YML_VERSION_MINOR 0)
 set(YML_VERSION_PATCH 1)
